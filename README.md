@@ -2,12 +2,12 @@
 # CQRS microservice design pattern with Axon server...
 
 ****
-**Commands **
-![Commands](https://github.com/kisevu/event-driven-microservice/blob/main/product-service/src/main/resources/images/commands.PNG)
+**Changes update on jenkins server from for every push**
+![Changes update on jenkins server](https://github.com/kisevu/jenkins-deployment/blob/main/product-service/src/main/resources/images/changes%20updated%20on%20jenkins%20server.PNG)
 
 ****
-**Successfully connected Axon Server to my microservice**
-![Axon server project connection](https://github.com/kisevu/event-driven-microservice/blob/main/product-service/src/main/resources/images/connected%20AXON%20to%20project.PNG)
+**Jenkins installing dependencies on the dashboard**
+![Jenkins installing dependencies](https://github.com/kisevu/jenkins-deployment/blob/main/product-service/src/main/resources/images/jenkins%20installing%20dependency.PNG)
 
 ****
 
